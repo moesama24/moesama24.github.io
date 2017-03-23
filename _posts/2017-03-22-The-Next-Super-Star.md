@@ -2,7 +2,7 @@
 layout: post
 title: “The Next Super Star”
 #categories: journal
-tags: [sta141 final project]
+tags: [STA141B final project]
 image:
   feature: nbafans.png
   teaser: nbafans-teaser.png
